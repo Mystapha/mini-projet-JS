@@ -1,0 +1,69 @@
+h2{
+    color: green !important;
+}
+h3{
+    color: red !important;
+   
+}
+h4{
+    color: rgb(30, 190, 182) !important;
+    text-decoration: none !important;
+}
+#btn{
+    color:white;
+    background-color: blue;
+}
+#btn1{
+    color:white;
+    background-color: blue;
+}
+#btn2{
+    color:white;
+    background-color: blue;
+}
+#btn3{
+    color:white;
+    background-color: blue;
+}
+#btn4{
+    color:white;
+    background-color: blue;
+}
+.rr1{
+    display: flex;
+    margin-top: 50px !important;
+}
+.col2{
+    margin-left: 150px !important;
+    margin-top: 70px !important;
+}
+.col2 img{
+    width: 650px !important;
+    border-radius: 10%;
+}
+.col22{
+    display: flex;
+    justify-content: space-around;
+}
+.col33{
+    margin-left: 250px !important;
+}
+.rr4{
+    width: 135% !important;
+    background-color: blueviolet;
+}
+#b1{
+    background-color: aqua;
+    margin-top: 5px !important;
+}
+#b2{
+    background-color: aqua;
+    margin-top: 5px !important;
+}
+footer{
+    background-color: blueviolet;
+    height: 50px;
+}
+footer h5{
+    margin-top: 8px !important;
+}

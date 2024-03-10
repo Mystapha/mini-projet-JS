@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: rgb(247, 51, 51) !important;
+    margin-top: 20px !important;
+}
+.rr1{
+    display: flex;
+    margin-top: 35px !important;
+    margin-left: 40px !important;
+}
+.col1 h4{
+    
+    text-decoration: underline;
+    color: blue;
+    font-weight: 700 !important;
+}
+.col1 h5{
+    font-weight: 700 !important;
+}
+.col2 h5{
+    font-weight: 700 !important;
+}
+.col2 h4{
+   
+    text-decoration: underline;
+    color: blue;
+    font-weight: 700 !important;
+}
+.rr2{
+    display: flex;
+    justify-content: space-around !important;
+    width: 145% !important;
+}
+#btn{
+    color: black;
+    font-weight: 550 !important;
+    background-color: aqua;
+}
+body{
+    background-image: url("https://gomycode.com/sn/wp-content/uploads/sites/10/2023/09/Why-Is-JS-So-Popular-scaled.jpg");
+}
+footer{
+    background-color: aquamarine;
+    height: 70px;
+}
+#co{
+    margin-top: 20px !important;
+    margin-left: 30px;
+}
+#btn:hover {
+    background-color: #45a049;
+}
